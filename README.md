@@ -47,10 +47,10 @@ An example of a response would be:
 The example use of beaches lifeguard service locations URL:
 *http://countygalwayapi.com/beach/Grattan*
 will return a record of a Grattan beach in JSON format as follows:
-    - *beach*: Grattan, Salthill 
-    - *opening hours*: 11:00-7:00pm. Weekends in June. 7 Days a Week in July and August. Weekends in Sept., until the 15th Sept.
-    - *number of Lifeguards*: 2
-    - *blue flag*: Yes/No
+  - *beach*: Grattan, Salthill 
+  - *opening hours*: 11:00-7:00pm. Weekends in June. 7 Days a Week in July and August. Weekends in Sept., until the 15th Sept.
+  - *number of Lifeguards*: 2
+  - *blue flag*: Yes/No
 
 An example of a respone would be:
     ```json
