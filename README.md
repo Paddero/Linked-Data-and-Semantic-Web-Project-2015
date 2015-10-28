@@ -5,8 +5,8 @@ This project will give users (Toursists as well as families living in County Gal
 
 ## Datasets used
 The datasets that I am going to use are:
-1 - Playgrounds County Galway - http://data.galwaycoco.opendata.arcgis.com/datasets/d5d7885b049d489fa9b8e5339488c1df_0.csv
-2 - Beach Lifeguard Service Locations - http://data.galwaycoco.opendata.arcgis.com/datasets/c2d83f3c2c014347b06caf98031eddb3_0.csv
+  1 - Playgrounds County Galway - http://data.galwaycoco.opendata.arcgis.com/datasets/d5d7885b049d489fa9b8e5339488c1df_0.csv
+  2 - Beach Lifeguard Service Locations - http://data.galwaycoco.opendata.arcgis.com/datasets/c2d83f3c2c014347b06caf98031eddb3_0.csv
 
 Both of these datasets are from data.gov.ie
 
