@@ -24,6 +24,26 @@ When you run the app, it will show the menu as shown below:
 
 Use the on screen menu and follow instruction in order to Add a Playground or a Beach in command prompt, as well as to check which areas contain Playgrounds and Beaches.
 
+## How to Use the API in Browser
+After you run the app.js file in Commant Prompt you will be able to use the browser API.
+
+Go to http://127.0.0.1:8000/allplaygrounds in order to view all the playgrounds, as shown below.
+![alt tag](http://i.imgur.com/5geCeMp.jpg)
+
+Go to http://127.0.0.1:8000/allbeaches in order to view all the beaches, as shown below.
+![alt tag](http://i.imgur.com/HN2ijDI.jpg)
+
+Go to http://127.0.0.1:8000/area/tuam (where tuam is an example of an area) in order to view all the attractions in that area, as shown below.
+![alt tag](http://i.imgur.com/L0ulX3s.jpg)
+
+The browser API also enables you to remove any playgrounds or beaches in certain Area. 
+Go to http://127.0.0.1:8000/deleteplayground/tuam (where tuam is an example of an area) in order to delete all the playgrounds in tuam, as shown below.
+![alt tag](http://i.imgur.com/idaz5qM.jpg)
+
+Go to http://127.0.0.1:8000/deletebeach/oranmore (where oranmore is an example of an area) in order to delete all the beaches in oranmore, as shown below.
+![alt tag](http://i.imgur.com/3hQBNMh.jpg)
+
+
 
 
 
