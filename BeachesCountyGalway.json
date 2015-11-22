@@ -1,0 +1,79 @@
+[
+  {
+    "Beach":"Grattan",
+    "Area":"Conamara",
+    "OpeningHours":"11-7pm. Weekends in June. 7 Days a Week in July and August. Weekends in Sept., until the 15th Sept.",
+    "NumOfLifeGuards":2,
+    "Blueflag":"Yes"
+  },
+  {
+    "Beach":"Blackrock",
+    "Area":"Ballinasloe",
+    "OpeningHours":"11-7pm. Weekends in June. 7 Days a Week in July and August. Weekends in Sept., until the 15th Sept.",
+    "NumOfLifeGuards":2,
+    "Blueflag":"Yes"
+  },
+  {
+    "Beach":"Ladies Beach",
+    "Area":"Oranmore",
+    "OpeningHours":"11-7pm. Weekends in June. 7 Days a Week in July and August. Weekends in Sept., until the 15th Sept.",
+    "NumOfLifeGuards":2,
+    "Blueflag":"Yes"
+  },
+  {
+    "Beach":"Palmers",
+    "Area":"Loughrea",
+    "OpeningHours":"11-7pm. 7 Days a Week in July and August. Weekends in Sept., until the 15th Sept.",
+    "NumOfLifeGuards":2,
+    "Blueflag":"Yes"
+  },
+  {
+    "Beach":"Silverstrand",
+    "Area":"Bearna",
+    "OpeningHours":"11-7pm. Weekends in June. 7 Days a Week in July and August. Weekends in Sept., until the 15th Sept.",
+    "NumOfLifeGuards":2,
+    "Blueflag":"Yes"
+  },
+  {
+    "Beach":"Ballyloughane",
+    "Area":"Oranmore",
+    "OpeningHours":"11-7pm. Weekends in June. 7 Days a week in July and August. Weekends in September until the 15th Sept.",
+    "NumOfLifeGuards":2,
+    "Blueflag":"No"
+  },
+  {
+    "Beach":"Céibh An Spidéil",
+    "Area":"Galway",
+    "OpeningHours":"12-6pm. Weekends in June. 7 Days a week in July and August. Weekends in Sept., until the 15th Sept.",
+    "NumOfLifeGuards":2,
+    "Blueflag":"No"
+  },
+  {
+    "Beach":"Tracht, Cinn Mhara",
+    "Area":"Bearna",
+    "OpeningHours":"12-6pm. Weekends in June. 7 Days a Week in July and August. Weekends in Sept., until the 15th Sept.",
+    "NumOfLifeGuards":2,
+    "Blueflag":"Yes"
+  },
+  {
+    "Beach":"Loughrea Lake",
+    "Area":"Oranmore",
+    "OpeningHours":"12-6pm. Weekends in June. 7 Days a Week in July and August. Weekends in Sept., until the 15th Sept.",
+    "NumOfLifeGuards":2,
+    "Blueflag":"Yes"
+  },
+  {
+    "Beach":"An Trá Mór, Knock, Indreabhán",
+    "Area":"Oranmore",
+    "OpeningHours":"12-6pm. Weekends in June. 7 Days a Week in July and August. Weekends in Sept., until the 15th Sept.",
+    "NumOfLifeGuards":2,
+    "Blueflag":"Yes"
+  },
+  {
+    "Beach":"Trá an Dóilín, An Cheathrú Rua",
+    "Area":"Athenry",
+    "OpeningHours":"12-6pm. Weekends in June. 7 Days a Week in July and August. Weekends in Sept., until the 15th Sept.",
+    "NumOfLifeGuards":2,
+    "Blueflag":"Yes"
+  }
+]
